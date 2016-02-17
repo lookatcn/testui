@@ -1,0 +1,7 @@
+#ignore bin
+bin/
+#ignore produced files
+build.xml
+local.properties
+project.properties
+

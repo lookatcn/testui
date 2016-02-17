@@ -1,0 +1,1445 @@
+Updated file /home/apuser/workspace/AndroidTest/build.xml
+Buildfile: /home/apuser/workspace/AndroidTest/build.xml
+
+-check-env:
+ [checkenv] Android SDK Tools Revision 21.0.1
+ [checkenv] Installed at /home/apuser/k/sdk
+
+-build-setup:
+     [echo] Resolving Build Target for Android51...
+[getuitarget] Project Target:   Android 4.4W
+[getuitarget] API level:        20
+     [echo] ----------
+     [echo] Creating output directories if needed...
+
+-pre-compile:
+
+compile:
+
+-post-compile:
+
+-dex:
+      [dex] input: /home/apuser/workspace/AndroidTest/bin/classes
+      [dex] No new compiled code. No need to convert bytecode to dalvik format.
+
+-post-dex:
+
+-jar:
+
+-post-jar:
+
+build:
+
+BUILD SUCCESSFUL
+Total time: 0 seconds
+adbd is already running as root
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+testcase.Contact:
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_002
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_002
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=1
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_005
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_005
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=2
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_006
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: exitApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_006
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=3
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_014
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_014
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=4
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_021
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+Contacts were already empty.
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_021
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=5
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_022
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=6
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_022
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=6
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_024
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=7
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+>>>>>>>>>>>0
+>>>>>>>>>>>1
+<<<<<<<<<<<[0, 1]
+>>>>>>>>>>>0
+>>>>>>>>>>>4
+<<<<<<<<<<<[0, 4]
+>>>>>>>>>>>1
+>>>>>>>>>>>4
+<<<<<<<<<<<[1, 4]
+>>>>>>>>>>>2
+>>>>>>>>>>>3
+<<<<<<<<<<<[2, 3]
+>>>>>>>>>>>2
+<<<<<<<<<<<[2]
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_024
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=7
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_025
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=8
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_025
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=8
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_026
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=9
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+系统会将您的联系人列表导出到以下文件：/storage/sdcard0/00018.vcf。
+matcher: >>>>> = 00018.vcf
+======Start to excute DeviceCommon: enterApp======
+com.android.uiautomator.core.UiObjectNotFoundException: for text= "00018.vcf"
+	at com.android.uiautomator.core.UiCollection.getChildByText(UiCollection.java:125)
+	at com.android.uiautomator.core.UiScrollable.getChildByText(UiScrollable.java:214)
+	at framework.driver.ObjectFind.byTextScrollWithResId(ObjectFind.java:75)
+	at framework.driver.AndroidObject.getObject(AndroidObject.java:47)
+	at framework.excute.Excute.excute(Excute.java:49)
+	at framework.common.ContactCommon.judgeExport(ContactCommon.java:501)
+	at testcase.Contact.test_026(Contact.java:246)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+======Start to excute DeviceCommon: exitApp======
+======Start to excute DeviceCommon: enterApp======
+系统会将您的联系人列表导出到以下文件：/storage/sdcard0/00018.vcf。
+matcher: >>>>> = 00018.vcf
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: exitApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_026
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=9
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_028
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=10
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_028
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=10
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_029
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=11
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_029
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=11
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_030
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=12
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_030
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=12
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_031
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=13
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+com.android.uiautomator.core.UiObjectNotFoundException: for text= "zhan"
+	at com.android.uiautomator.core.UiCollection.getChildByText(UiCollection.java:125)
+	at com.android.uiautomator.core.UiScrollable.getChildByText(UiScrollable.java:214)
+	at framework.driver.ObjectFind.byTextScroll(ObjectFind.java:61)
+	at framework.driver.AndroidObject.getObject(AndroidObject.java:39)
+	at framework.excute.Excute.excute(Excute.java:49)
+	at framework.excute.Excute.check(Excute.java:44)
+	at framework.common.ContactCommon.judgeCopy(ContactCommon.java:410)
+	at testcase.Contact.test_031(Contact.java:296)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+com.android.uiautomator.core.UiObjectNotFoundException: for text= "zhan"
+	at com.android.uiautomator.core.UiCollection.getChildByText(UiCollection.java:125)
+	at com.android.uiautomator.core.UiScrollable.getChildByText(UiScrollable.java:214)
+	at framework.driver.ObjectFind.byTextScroll(ObjectFind.java:61)
+	at framework.driver.AndroidObject.getObject(AndroidObject.java:39)
+	at framework.excute.Excute.excute(Excute.java:49)
+	at framework.excute.Excute.check(Excute.java:44)
+	at framework.common.ContactCommon.judgeCopy(ContactCommon.java:410)
+	at testcase.Contact.test_031(Contact.java:303)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_031
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=13
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_032
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=14
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_032
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=14
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_034
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=15
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+系统会将您的联系人列表导出到以下文件：/storage/emulated/0/00013.vcf。
+matcher: >>>>> = 00013.vcf
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: exitApp======
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_034
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=15
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_036
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=16
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_036
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=16
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_037
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=17
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: exitApp======
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_037
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=17
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_039
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=18
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+java.lang.ArrayIndexOutOfBoundsException: length=1; index=1
+	at framework.driver.AndroidObject.getObject(AndroidObject.java:56)
+	at framework.excute.Excute.excute(Excute.java:49)
+	at testcase.Contact.test_039(Contact.java:412)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_039
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=18
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_041
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=19
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_041
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=19
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_042
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=20
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_042
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=20
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_043
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=21
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_043
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=21
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_044
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=22
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_044
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=22
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_052
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=23
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_052
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=23
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_053
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=24
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_053
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=24
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_054
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=25
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_054
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=25
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_055
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=26
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_055
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=26
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_056
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=27
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: swipe======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_056
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=27
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_058
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=28
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_058
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=28
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_059
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=29
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_059
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=29
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_061
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=30
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_061
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=30
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_062
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=31
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: exitApp======
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_062
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=31
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_064
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=32
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_064
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=32
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_065
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=33
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_065
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=33
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_066
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=34
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+com.android.uiautomator.core.UiObjectNotFoundException: for text= "zhan"
+	at com.android.uiautomator.core.UiCollection.getChildByText(UiCollection.java:125)
+	at com.android.uiautomator.core.UiScrollable.getChildByText(UiScrollable.java:214)
+	at framework.driver.ObjectFind.byTextScroll(ObjectFind.java:61)
+	at framework.driver.AndroidObject.getObject(AndroidObject.java:39)
+	at framework.excute.Excute.excute(Excute.java:49)
+	at framework.excute.Excute.check(Excute.java:44)
+	at testcase.Contact.test_066(Contact.java:809)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_066
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=34
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_067
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=35
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+com.android.uiautomator.core.UiObjectNotFoundException: for text= "SIM1"
+	at com.android.uiautomator.core.UiCollection.getChildByText(UiCollection.java:125)
+	at com.android.uiautomator.core.UiScrollable.getChildByText(UiScrollable.java:214)
+	at framework.driver.ObjectFind.byTextScroll(ObjectFind.java:61)
+	at framework.driver.AndroidObject.getObject(AndroidObject.java:39)
+	at framework.excute.Excute.excute(Excute.java:49)
+	at testcase.Contact.test_067(Contact.java:819)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_067
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=35
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_068
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=36
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+Contacts were already empty.
+>>>>>>>>>>>waitting 0 s
+>>>>>>>>>>>num = 20
+>>>>>>>>>>>waitting 1 s
+>>>>>>>>>>>num = 20
+>>>>>>>>>>>waitting 1 s
+>>>>>>>>>>>num = 70
+>>>>>>>>>>>waitting 3 s
+>>>>>>>>>>>num = 70
+>>>>>>>>>>>waitting 3 s
+>>>>>>>>>>>num = 130
+>>>>>>>>>>>waitting 6 s
+>>>>>>>>>>>num = 440
+======Start to excute DeviceCommon: enterApp======
+java.lang.ArrayIndexOutOfBoundsException: length=1; index=1
+	at framework.driver.AndroidObject.getObject(AndroidObject.java:56)
+	at framework.excute.Excute.excute(Excute.java:49)
+	at testcase.Contact.test_068(Contact.java:841)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_068
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=36
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_071
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=37
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+Contacts were already empty.
+com.android.uiautomator.core.UiObjectNotFoundException: for text= "NoNumver"
+	at com.android.uiautomator.core.UiCollection.getChildByText(UiCollection.java:125)
+	at com.android.uiautomator.core.UiScrollable.getChildByText(UiScrollable.java:214)
+	at framework.driver.ObjectFind.byTextScroll(ObjectFind.java:61)
+	at framework.driver.AndroidObject.getObject(AndroidObject.java:39)
+	at framework.excute.Excute.excute(Excute.java:49)
+	at framework.excute.Excute.check(Excute.java:44)
+	at testcase.Contact.test_071(Contact.java:872)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_071
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=37
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_072
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=38
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_072
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=38
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_075
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=39
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+The needed account has already empety!!!
+======Start to excute DeviceCommon: enterApp======
+Waiting Disapper...
+Waiting for...
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_075
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=39
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_076
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=40
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+>>>>>>>>>>>true
+======Start to excute DeviceCommon: enterApp======
+Waiting Disapper...
+>>>>>>>>>>>true
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_076
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=40
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_077
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=41
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+Contacts were already empty.
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_077
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=41
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_079
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=42
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+Failure in test_079:
+junit.framework.AssertionFailedError: Not find the object with object type: 10010, opration type: 30001
+	at framework.excute.Excute.checkObject(Excute.java:60)
+	at framework.excute.Excute.excute(Excute.java:50)
+	at framework.common.ContactCommon.addPhoneWithPic(ContactCommon.java:101)
+	at testcase.Contact.test_079(Contact.java:963)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_079
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: stack=junit.framework.AssertionFailedError: Not find the object with object type: 10010, opration type: 30001
+	at framework.excute.Excute.checkObject(Excute.java:60)
+	at framework.excute.Excute.excute(Excute.java:50)
+	at framework.common.ContactCommon.addPhoneWithPic(ContactCommon.java:101)
+	at testcase.Contact.test_079(Contact.java:963)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+
+INSTRUMENTATION_STATUS: current=42
+INSTRUMENTATION_STATUS_CODE: -2
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_080
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=43
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+Contacts were already empty.
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_080
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=43
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_081
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=44
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_081
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=44
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_082
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=45
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_082
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=45
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_083
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=46
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_083
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=46
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_086
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=47
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+java.lang.ArrayIndexOutOfBoundsException: length=2; index=2
+	at framework.driver.AndroidOperation.doOperation(AndroidOperation.java:178)
+	at framework.excute.Excute.excute(Excute.java:51)
+	at testcase.Contact.test_086(Contact.java:1040)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+java.lang.ArrayIndexOutOfBoundsException: length=2; index=2
+	at framework.driver.AndroidOperation.doOperation(AndroidOperation.java:178)
+	at framework.excute.Excute.excute(Excute.java:51)
+	at testcase.Contact.test_086(Contact.java:1041)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_086
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=47
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_093
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=48
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_093
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=48
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_097
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=49
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_097
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=49
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_098
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=50
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_098
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=50
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_101
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=51
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_101
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=51
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_103
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=52
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_103
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=52
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_104
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=53
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_104
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=53
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_108
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=54
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+java.lang.ArrayIndexOutOfBoundsException: length=2; index=2
+	at framework.driver.AndroidOperation.doOperation(AndroidOperation.java:178)
+	at framework.excute.Excute.excute(Excute.java:51)
+	at testcase.Contact.test_108(Contact.java:1166)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+java.lang.ArrayIndexOutOfBoundsException: length=2; index=2
+	at framework.driver.AndroidOperation.doOperation(AndroidOperation.java:178)
+	at framework.excute.Excute.excute(Excute.java:51)
+	at testcase.Contact.test_108(Contact.java:1172)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_108
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=54
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_110
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=55
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+======Start to excute CallLogCommon: deleteAllLog======
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_110
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=55
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_111
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=56
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_111
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=56
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_113
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=57
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+======Start to excute DeviceCommon: enterApp======
+java.lang.ArrayIndexOutOfBoundsException: length=2; index=2
+	at framework.driver.AndroidOperation.doOperation(AndroidOperation.java:178)
+	at framework.excute.Excute.excute(Excute.java:51)
+	at testcase.Contact.test_113(Contact.java:1266)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_113
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=57
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_114
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=58
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+Contacts were already empty.
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_114
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=58
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_115
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=59
+INSTRUMENTATION_STATUS_CODE: 1
+Enter the setUp!!!
+Clear Background
+======Start to excute DeviceCommon: enterApp======
+java.lang.ArrayIndexOutOfBoundsException: length=2; index=2
+	at framework.driver.AndroidOperation.doOperation(AndroidOperation.java:178)
+	at framework.excute.Excute.excute(Excute.java:51)
+	at testcase.Contact.test_115(Contact.java:1304)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+java.lang.ArrayIndexOutOfBoundsException: length=2; index=2
+	at framework.driver.AndroidOperation.doOperation(AndroidOperation.java:178)
+	at framework.excute.Excute.excute(Excute.java:51)
+	at testcase.Contact.test_115(Contact.java:1305)
+	at java.lang.reflect.Method.invoke(Native Method)
+	at java.lang.reflect.Method.invoke(Method.java:372)
+	at junit.framework.TestCase.runTest(TestCase.java:168)
+	at junit.framework.TestCase.runBare(TestCase.java:134)
+	at junit.framework.TestResult$1.protect(TestResult.java:115)
+	at junit.framework.TestResult.runProtected(TestResult.java:133)
+	at junit.framework.TestResult.run(TestResult.java:118)
+	at junit.framework.TestCase.run(TestCase.java:124)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.start(UiAutomatorTestRunner.java:160)
+	at com.android.uiautomator.testrunner.UiAutomatorTestRunner.run(UiAutomatorTestRunner.java:96)
+	at com.android.commands.uiautomator.RunTestCommand.run(RunTestCommand.java:91)
+	at com.android.commands.uiautomator.Launcher.main(Launcher.java:83)
+	at com.android.internal.os.RuntimeInit.nativeFinishInit(Native Method)
+	at com.android.internal.os.RuntimeInit.main(RuntimeInit.java:299)
+INSTRUMENTATION_STATUS: numtests=59
+INSTRUMENTATION_STATUS: stream=.
+INSTRUMENTATION_STATUS: id=UiAutomatorTestRunner
+INSTRUMENTATION_STATUS: test=test_115
+INSTRUMENTATION_STATUS: class=testcase.Contact
+INSTRUMENTATION_STATUS: current=59
+INSTRUMENTATION_STATUS_CODE: 0
+INSTRUMENTATION_STATUS: stream=
+Test results for WatcherResultPrinter=.........................................
+.F.................
+Time: 7127.215
+
+FAILURES!!!
+Tests run: 59,  Failures: 1,  Errors: 0
+
+
+INSTRUMENTATION_STATUS_CODE: -1
